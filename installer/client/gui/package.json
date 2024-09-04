@@ -14,7 +14,7 @@
     "openai": "^4.31.0"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.19.1",
+    "@anthropic-ai/sdk": "^0.25.2",
     "axios": "^1.6.7",
     "mammoth": "^1.6.0",
     "node-fetch": "^2.6.7",
